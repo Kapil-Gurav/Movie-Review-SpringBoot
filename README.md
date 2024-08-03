@@ -1,4 +1,4 @@
-# Movies Review Backend Application
+# CineCritique
 
 This Spring Boot application serves as a backend system for managing movie reviews. It provides RESTful APIs for performing CRUD operations on movie reviews stored in MongoDB. The application also includes functionality for user authentication and authorization.
 
